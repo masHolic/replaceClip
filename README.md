@@ -13,14 +13,14 @@ Operation confirmed on Windows 10.
 ## Instration
 Firstly install pyperclip module using command:
 ```
-$ pip install pyperclip.
+> pip install pyperclip.
 ```
 ```
-$ git clone https://github.com/masHolic/replaceClip
+> git clone https://github.com/masHolic/replaceClip
 ```
   
 ## Usage
 ```
-$ cd replaceClip
-$ python3 replaceClip.py
+> cd replaceClip
+> python3 replaceClip.py
 ```
