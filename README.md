@@ -1,7 +1,9 @@
 # replaceClip
 ## Description
 Replace clipboard text using regular expressions.
+
 Operation confirmed on Windows 10.
+
 🌱 I’m currently learning Python.
 
 ## Requirement
