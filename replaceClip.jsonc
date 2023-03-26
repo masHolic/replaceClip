@@ -1,0 +1,20 @@
+{
+  /* sample */
+//  "beforetext": "aftertext",
+  /* visible Space, CR and LF. */
+//  "\\r": "[0d]",
+//  "\\n": "[0a]\n",
+//  "\\t": "[09]",
+//  " ": "[20]",
+  /* remove CR+LF */
+//  "\\r\\n": "",
+  /* enclose line with [] (per line) */
+  "([^\\r\\n]+)": "[\\1]",
+  /* enclose whole text with [] */
+//  "([\\d\\D]+)": "[\\1]",
+  /* add 0 in the middle of character */
+//  "krj0*(\\w*)": "krj0\\1",
+//  "krn0*(\\w*)": "krn0\\1",
+//  "krf0*(\\w*)": "krf0\\1",
+  "$___ENDLINE": "ENDLINE___"
+}
